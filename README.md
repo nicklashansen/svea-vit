@@ -34,7 +34,7 @@ If you find our work useful in your research, please consider citing our work as
 We assume that you have access to a GPU with CUDA >=9.2 support. All dependencies can then be installed with the following commands:
 
 ```
-conda env create -f setup/conda.yml
+conda env create -f setup/conda.yaml
 conda activate svea
 sh setup/install_envs.sh
 ```
